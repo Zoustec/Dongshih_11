@@ -82,7 +82,7 @@ resumeautorotation(forcehotspot);
 
   <layer name="buttonForASinglePano"
          keep="true"
-         url="%FIRSTXML%/graphics/buttonforasinglepano/29986_49.png"
+         url="%FIRSTXML%/graphics/buttonforasinglepano/_29986_49.png"
          align="top"
          x="0"
          y="10"
@@ -129,7 +129,7 @@ resumeautorotation(forcehotspot);
 
   <layer name="buttonForASinglePano1"
          keep="true"
-         url="%FIRSTXML%/graphics/buttonforasinglepano1/29986_48.png"
+         url="%FIRSTXML%/graphics/buttonforasinglepano1/_29986_48.png"
          align="top"
          x="0"
          y="10"
